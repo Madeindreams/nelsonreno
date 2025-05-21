@@ -1,0 +1,48 @@
+{
+  "title": "NelsonReno.ca",
+  "subtitle": "Cleaning & Renovation Services in Nelson, BC",
+  "welcome": "Welcome to NelsonReno — your local partner in keeping homes and businesses fresh, clean, and beautifully maintained. Proudly serving the Nelson community with care, craftsmanship, and a touch of Kootenay spirit.",
+
+  "services": {
+    "title": "NelsonReno's Full-Service Expertise",
+    "subtitle": "From Dirt to Design — Upholstery, Renovation, and Engineering Solutions Tailored to Nelson",
+    "intro": "At NelsonReno, we do more than just cleaning. We offer a full suite of services to keep your space pristine, personalized, and purpose-built — whether it's your home, business, or post-construction site.",
+    "list": [
+      "Residential & commercial cleaning",
+      "Post-construction deep cleaning",
+      "Renovation & space remodeling",
+      "Custom furniture design & repair",
+      "Professional upholstery for residential and commercial clients"
+    ],
+    "engineering": "But what truly sets us apart? We offer affordable, community-oriented engineering solutions. Yes — our founder is an aerospace engineer who brings precision, creativity, and problem-solving into every project.",
+    "cta": "Have something unique in mind? We love special projects. Let’s build something together — and don’t forget to {{aboutLink}} to learn more."
+  },
+
+  "about": {
+    "title": "Fueled by Passion, Driven by Craft",
+    "subtitle": "From Steam to Code — A Journey of Skill, Precision, and Reinvention",
+    "intro": "NelsonReno isn’t just a business — it’s the culmination of a life journey that began in the upholstery trade at the age of seven. From mastering fine craftsmanship on luxury private jets to teaching aerospace engineering to the Royal Canadian Air Force, Ian’s path has always been hands-on, detail-focused, and fueled by curiosity.",
+    "career": "While engineering and coding were his steady companions, the pull of traditional trades never faded. Like a steamboat powering forward on both legacy and innovation, NelsonReno blends time-honored skills with modern precision — all in service of the local community.",
+    "cta": "Welcome aboard."
+  },
+
+  "contact": {
+    "title": "Let’s Connect, Nelson",
+    "subtitle": "Rooted in Community. Built for Collaboration.",
+    "intro": "Whether you're starting a renovation, planning a custom build, or just need a deep clean that respects your space — we're here and ready to help.",
+    "community": "NelsonReno is proudly local, and every project we take on is backed by decades of experience and a deep respect for this place we call home.",
+    "cta": "Have a question, a vision, or just want to explore what’s possible? Reach out — we’re just around the corner."
+  },
+
+  "quoteBtn": "Get a Free Quote",
+  "contactBtn":"Contact us Now",
+
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+
+  "footer": "All rights reserved"
+}
